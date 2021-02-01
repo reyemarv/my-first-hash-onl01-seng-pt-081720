@@ -1,5 +1,5 @@
 def my_hash
-  your_hash = {k => v}
+  your_hash = {"pet" => "Zoe"}
 end
 
 
